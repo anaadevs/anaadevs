@@ -11,9 +11,7 @@
 ## Sobre mim
 
 🎓 Cursando **Engenharia da Computação** no CEFET-MG  
-
 💻 Apaixonada por tecnologia e desenvolvimento de software  
-
 🚀 Sempre buscando aprender novas tecnologias e resolver problemas reais  
 
 ---
